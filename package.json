@@ -1,0 +1,11 @@
+{
+  "name": "apache-solr-client",
+  "version": "1.0.0",
+  "description": "Apache Solr client helps you build solr queries. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Pooja Chopra (@chopraapooja)",
+  "license": "MIT"
+}
